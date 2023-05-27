@@ -26,3 +26,7 @@ Também foram utilizadas ferramentas que não posso deixar de mencionar, como:
 ##
 
 > ### Preview 🚩
+
+|          |          |
+| --- | --- |
+| ![memoriacad](https://github.com/nkdwon/Capsula-Do-Tempo-NLW/assets/99335774/fc02bd2f-dc3b-4e64-abb3-42b66957bd1b) | ![memoria](https://github.com/nkdwon/Capsula-Do-Tempo-NLW/assets/99335774/4ae423d5-d14c-467e-bf5b-60d2f9b862d0) | 
